@@ -1,0 +1,17 @@
+Package: SeniorIPIWeb
+Type: Package
+Title: Senior-IPI web app
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Jean-Philippe", "Jais",
+      email = "jean-philippe.jais@aphp.fr",
+      role = c("aut", "cre")
+    )
+  )
+Description: Launches locally the Senior-IPI web app. Senior-IPI The Senior International Prognostic Index (Senior-IPI) is a prognostic tool designed specifically for elderly patients (≥80 years of age) with large B-cell lymphoma (LBCL). See Dubois & al. (20026,<doi:10.1111/bjh.70784>), for details.
+License: CC BY 4.0
+Imports: servr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.3

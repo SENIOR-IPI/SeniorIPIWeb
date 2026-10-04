@@ -1,0 +1,17 @@
+bibentry(
+  bibtype = "Article",
+  title = "SENIOR-IPI: An easily applicable prognostic index for first-line large B-cell lymphomas patients >80 years treated with curative intent.",
+  author = c(person("Sydney", "Dubois"),
+             person("Fanny", "Cherblanc"),
+             person("Aurelien", "Belot"),
+             person("Lucie", "Oberic"),
+             person("Herve", "Ghesquieres"),
+             person("Corinne", "Haioun"),
+             person("Herve", "Tilly"),
+             person("Jean-Philippe", "Jais"),
+             person("Fabrice", "Jardin")
+             ),
+  journal = "British Journal of Haematology",
+  year = "2026",
+  doi = "10.1111/bjh.70784"
+)
